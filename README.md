@@ -58,4 +58,4 @@ terraform apply
 
 ## Author
 Mubarak Tijani  
-mubarak.tijani@amalitechtraining.org
+mubarak.tijani@amalitech.com

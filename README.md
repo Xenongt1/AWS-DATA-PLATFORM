@@ -9,13 +9,9 @@ aws-data-platform/
 ├── lab-1.1-iam-setup/           # IAM roles and policies for data engineering
 ├── lab-1.2-vpc-network/         # VPC, subnets, security groups, VPC endpoints
 ├── lab-1.3-s3-lake-formation/   # S3 data lake with encryption, versioning & lifecycle
-├── lab-2.1-glue-catalog/        # AWS Glue catalog databases and crawlers
-├── lab-2.2-datasync/            # DataSync batch ingestion with scheduled sync
-├── lab-2.3-kinesis/             # Kinesis data streaming setup
-└── lab-3.1-redshift/            # Redshift data warehouse cluster
 ```
 
-## Tracked Labs (Submission)
+## Labs (Submission)
 
 ### Lab 1.1 — IAM Setup for Data Engineering
 Provisions all IAM roles and policies for the data platform:

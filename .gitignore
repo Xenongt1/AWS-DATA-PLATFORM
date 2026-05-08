@@ -18,17 +18,17 @@ node_modules/
 package-lock.json
 package.json
 
-# Root-level tf files (organized into lab folders instead)
-datasync.tf
-glue.tf
-iam.tf
-kinesis.tf
-main.tf
-redshift.tf
-s3.tf
-vpc.tf
-customer_etl.py
-customers.csv
+# Root-level loose tf files (everything is organized into lab folders)
+/datasync.tf
+/glue.tf
+/iam.tf
+/kinesis.tf
+/main.tf
+/redshift.tf
+/s3.tf
+/vpc.tf
+/customer_etl.py
+/customers.csv
 
 # OS
 .DS_Store
